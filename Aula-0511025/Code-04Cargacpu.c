@@ -9,9 +9,12 @@
 #define EXEC_TIME 20
 
 //Uso
- //%gcc cpu_stress_20s.c -o cpu_stress_20s -lpthread -lm
-//%./cpu_stress_20s
- 
+//gcc Code-04Cargacpu.c -o Code-04 -lpthread -lm
+//./Code-04C
+
+
+
+Create 
   
 void* cpu_burn(void* arg) {
     int id = *(int*)arg;
