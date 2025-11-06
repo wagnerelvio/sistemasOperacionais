@@ -21,7 +21,7 @@ void swap_in(Processo *p) {
 // Simula remoção de um processo da RAM (para o disco)
 void swap_out(Processo *p) {
     p->estado = 0;
-    printf("📤 Swap OUT: Processo %s (PID %d) movido para o disco.\n", p->nome, p->pid);
+    printf("Swap OUT: Processo %s (PID %d) movido para o disco.\n", p->nome, p->pid);
 }
 
 int main() {
@@ -51,7 +51,7 @@ int main() {
         swap_in(&processos[i]);
         ram_count++;
 
-        printf("\n📊 Estado atual da memória:\n");
+        printf("\n Estado atual da memória:\n");
         for (int k = 0; k < MAX_PROCESSES; k++) {
             printf(" - Processo %-10s | PID: %d | Estado: %s\n",
                    processos[k].nome,
