@@ -7,10 +7,10 @@
 
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wagnerelvio&theme=onedark)
+<!--    ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wagnerelvio&theme=onedark)-->
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wagnerelvio&theme=radical)
-<!--  #![Commit Time Stats](https://github-readme-stats.vercel.app/api/pin/?username=wagnerelvio&repo=github-readme-stats)-->
+<!--  ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wagnerelvio&theme=radical)-->
+<!--  [Commit Time Stats](https://github-readme-stats.vercel.app/api/pin/?username=wagnerelvio&repo=github-readme-stats)-->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wagnerelvio&theme=radical)
 ![Profile views](https://komarev.com/ghpvc/?username=wagnerelvio&color=blue)
 ### 🛠️ Tecnologias e Ferramentas
